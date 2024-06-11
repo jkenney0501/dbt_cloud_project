@@ -1,11 +1,7 @@
-Welcome to your new dbt project!
+### Using the dbt starter project
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
-
+This project creats a small dimensional model from a staging layer to production and is deployed using dbt cloud.
+- link to project: [dbt with snowflake](https://docs.getdbt.com/guides/snowflake?step=1)
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
